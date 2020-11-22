@@ -68,3 +68,4 @@ Examples of projects and blog posts [using OSMnx](https://geoffboeing.com/2018/0
 If you use OSMnx in your work, please cite the [journal article](https://geoffboeing.com/publications/osmnx-complex-street-networks/).
 
 [![Zephyr Badge](https://github.com/ZephyrTransport/zephyr-website/blob/gh-pages/img/badging/project_pages/osmnx/osmnx.png)](https://medium.com/zephyrfoundation/osmnx-software-badge-3e206db65825)
+
